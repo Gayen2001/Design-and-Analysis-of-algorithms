@@ -71,7 +71,7 @@ int main() {
  scanf("%d",&size);
  printf("Enter the element of the array:");
  for(i=0;i<size;i++){
-    scanf("%d",Arr[i]);
+    scanf("%d",&arr[i]);
  }
   
   printf("Your given Unsorted Array\n");
